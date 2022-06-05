@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jschiefner/shopping-list-ios/blob/main/photoshop/icon.png?raw=true" width="200" alt="Shopping List Icon">
+  <img src="https://github.com/lvpua/shopping-list-ios/blob/main/photoshop/icon.png?raw=true" width="200" alt="Shopping List Icon">
 </p>
 
 ## Shopping List iOS App
